@@ -1,0 +1,61 @@
+{
+  "uid" : "976f84a10f8d8b05",
+  "name" : "test_calc_positive",
+  "fullName" : "TestCalc.TestCalcAdd#test_calc_positive",
+  "historyId" : "aaabefb9d089a9e8942c5b11c9096b7b",
+  "time" : {
+    "start" : 1589025806315,
+    "stop" : 1589025806315,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "TestCalc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalcAdd"
+  }, {
+    "name" : "host",
+    "value" : "cpe-172-100-1-147.twcny.res.rr.com"
+  }, {
+    "name" : "thread",
+    "value" : "5921-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCalc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8ba6d2a5173d5e04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589025652842,
+        "stop" : 1589025652842,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "976f84a10f8d8b05.json",
+  "parameterValues" : [ ]
+}

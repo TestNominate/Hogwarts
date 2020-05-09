@@ -1,0 +1,98 @@
+{
+  "08bf03b2bbd479b3b8f82c14a6a025dc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6511df9788f2fdd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589025806320,
+        "stop" : 1589025806320,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bfa1b3b4271a26d9dbd874b820014960" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2df68579cdaceee3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 1 == -1\n +  where 1 = <bound method Calc.calc_div of <Calc.Calc object at 0x11011bbb0>>()\n +    where <bound method Calc.calc_div of <Calc.Calc object at 0x11011bbb0>> = <Calc.Calc object at 0x11011bbb0>.calc_div",
+      "time" : {
+        "start" : 1589025806321,
+        "stop" : 1589025806321,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1d7c06cd3655ee66c28754fed7b92b45" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "71b718573c2521f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589025806318,
+        "stop" : 1589025806318,
+        "duration" : 0
+      }
+    } ]
+  },
+  "aaabefb9d089a9e8942c5b11c9096b7b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "976f84a10f8d8b05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589025806315,
+        "stop" : 1589025806315,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6739f53a0cc3a56b3dba1ffa7ababe43" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "159d40c9dc999586",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589025806316,
+        "stop" : 1589025806316,
+        "duration" : 0
+      }
+    } ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 1 == -1\n +  where 1 = <bound method Calc.calc_div of <Calc.Calc object at 0x11011bbb0>>()\n +    where <bound method Calc.calc_div of <Calc.Calc object at 0x11011bbb0>> = <Calc.Calc object at 0x11011bbb0>.calc_div",
+      "children" : [ {
+        "name" : "test_calc_minus",
+        "uid" : "2df68579cdaceee3",
+        "parentUid" : "c16269b0d0cab86ed2c5bea7de8c5b12",
+        "status" : "failed",
+        "time" : {
+          "start" : 1589025806321,
+          "stop" : 1589025806321,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c16269b0d0cab86ed2c5bea7de8c5b12"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
